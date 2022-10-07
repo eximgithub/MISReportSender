@@ -1,0 +1,34 @@
+{header} {ngaybaocao}
+
+1/ Tổng tài sản: {tongtaisan} tỷ (KH {tongtaisan_kh} tỷ)
+-	SV ngày trước: +/-{tongtaisan_svngaytruoc} tỷ
+-	SV tháng trước: +/- tongtaisan_svthangtruoc tỷ (+/-{tongtaisan_svthangtruoc_phantram}%)
+-	SV đầu năm: +/- {tongtaisan_svdaunam} tỷ (+/-tongtaisan_svdaunam_phantram.%)
+-	GAP kế hoạch: {tongtaisan_gapkehoach} tỷ
+
+2/ Huy động vốn: {huydongvon} tỷ (KH {huydongvon_kh} tỷ)
+-	SV ngày trước: +/-{huydongvon_svngaytruoc} tỷ (CN +/- {huydongvon_svngaytruoc_cn} tỷ, DN +/-{huydongvon_svngaytruoc_dn} tỷ)
+-	SV tháng trước: +/-{huydongvon_svthangtruoc} tỷ (+/-{huydongvon_svthangtruoc_phantram}%). CN +/-{huydongvon_svthangtruoc_cn} tỷ, DN +/-{huydongvon_svthangtruoc_dn} tỷ
+-	SV đầu năm: +/-{huydongvon_svdaunam} tỷ (+/-{huydongvon_svdaunam_phantram}%). CN +/-{huydongvon_svdaunam_cn} tỷ, DN +/-{huydongvon_svdaunam_dn} tỷ
+-	GAP kế hoạch: {huydongvon_gapkehoach} tỷ
+
+3/ Dư nợ tín dụng: {dunotindung} tỷ (room NHNN {dunotindung_room_nhnn} % ~ KH {dunotindung_kh}tỷ)
+-	SV ngày trước: +/-{dunotindung_svngaytruoc} tỷ
+Dư nợ cho vay: +/-{dunochovay} tỷ. CN +/-{dunochovay_cn} tỷ, DN +/-{dunochovay_dn} tỷ
+-	SV tháng trước: +/-{dunochovay_svthangtruoc} tỷ (+/-{dunochovay_svthangtruoc_phantram}%)
+-	SV đầu năm: +/-{dunochovay_svdaunam} tỷ (+/-{dunochovay_svdaunam_phantram}%).
+-	GAP kế hoạch: {dunochovay_gapkehoach} tỷ
+
+4/ Nợ quá hạn:  {noquahan} tỷ. Tỷ lệ NQH/DNTD {noquahan_phantram}%
+-	SV ngày trước: +/-{noquahan_svngaytruoc} tỷ, tỷ lệ NQH +/-{noquahan_svngaytruoc_phantram}%
+-	SV tháng trước: +/-{noquahan_svthangtruoc} tỷ, tỷ lệ NQH +/-{noquahan_svthangtruoc_phantram}%
+-	SV đầu năm: +/-{noquahan_svdaunam} tỷ, tỷ lệ NQH +/-{noquahan_svdaunam_phantram}%
+
+5/ Nợ xấu: {noxau} tỷ. Tỷ lệ NPL/DNTD {noxau_phantram}%
+-	SV ngày trước: +/-{noxau_svngaytruoc} tỷ, tỷ lệ NPL +/-{noxau_svngaytruoc_phantram}%
+-	SV tháng trước: +/-{noxau_svthangtruoc} tỷ, tỷ lệ NPL +/-{noxau_svthangtruoc_phantram}%
+-	SV đầu năm: +/-{noxau_svdaunam} tỷ, tỷ lệ NPL+/-{noxau_svdaunam_phantram}%
+
+6/ Lợi nhuận TT tháng {thang}. đạt {thang_dat_ty} tỷ. Lũy kế đến ngày {ngay}. đạt {ngay_dat_ty}. tỷ, đạt  {ngay_dat_phantram}% kế hoạch năm.
+
+{footer}
